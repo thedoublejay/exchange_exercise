@@ -1,10 +1,10 @@
 # La Coco Crypto Exchange
 
-Mr. Ernesto Dela Cruz is planning to setup his own online cryptocurrency exchange. La Coco Crypto Exchange will accept the supported cryptocurrencies and convert it to a different cryptocurrency.
+Mr. Ernesto Dela Cruz is planning to setup his own online cryptocurrency exchange. His exchange, La Coco Crypto Exchange will accept the supported cryptocurrencies and convert it to a different cryptocurrency.
 
 ### User Acceptance Criteria
 
-Mr. Ernesto wants to create an app to help jump start his exchange. The app can be on any platform (e.g, Mobile, Web or Desktop). The goal of this app is to be able to display the conversion amount for each token.
+Mr. Ernesto needs your help to create an app that will serve as his online exchange. The app can be on any platform (e.g, Mobile, Web or Desktop). The goal of this app is to be able to display the conversion amount for each token.
 
 If User A wants to swap 1 BTC to ETH, it should display the corresponding ETH to be received. (e.g, 1 BTC = 16.47 ETH).
 
@@ -27,7 +27,7 @@ Bonus:
 
 ### Technical Requirements
 
-1. For this app, you may create desktop, web or mobile app. You need to use the following tech stack below. Feel free to add any to the stack if you need, as long as these core frameworks are used.
+1. For this app, you may create it on any platform (desktop, web or mobile app). You need to use the following tech stack below. Feel free to add any to the stack if you need, as long as these core frameworks are used. **You only need to select one platform.**
 
 | App              | Tech Stack                     |
 |------------------|--------------------------------|
