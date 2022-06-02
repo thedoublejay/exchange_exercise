@@ -1,4 +1,5 @@
-# La Coco Crypto Exchange
+## La Coco Crypto Exchange
+> This task should take about 2-6 hours of your time.
 
 Mr. Ernesto Dela Cruz is planning to setup his own online cryptocurrency exchange. His exchange, La Coco Crypto Exchange will accept the supported cryptocurrencies and convert it to a different cryptocurrency.
 
@@ -22,8 +23,6 @@ The app should do the following:
 Bonus:
 1. Prices should be displayed (e.g, 1 BTC = 16.47 ETH)
 2. Should have a swap button. When clicked, it will reverse the currencies. (e.g, BTC => ETH, Press swap, ETH => BTC)
-3. Display the symbol of cryptocurrencies
-4. Form validations
 
 ### Technical Requirements
 
@@ -35,15 +34,26 @@ Bonus:
 | Desktop          | React, Electron, TypeScript    |
 | Web              | React, Next.js, TypeScript     |
 
-2. Use crypto prices from https://www.coingecko.com/en/api/documentation
+2. Use crypto prices from 
+```http request
+https://www.coingecko.com/en/api/documentation
+```
 3. Please provide a documentation on how to test and run your application.
 4. Design of the app is up to you. Design should be responsive.
-5. Should have at least unit tests
 
 Bonus:
-1. E2E tests
-2. CI builds
+1. Unit or E2E tests
 
 ### Submission
 
-TBA
+1. Create your own private Git repo. Please invite [@thedoublejay](https://github.com/thedoublejay) to view your work once you are done.
+2. **Manage your time well**, take note of the 2-6 hours specified. You are not expected to spend more than a day on this.
+3. Email `jj@cakedefi.com` and cc `al@cakedefi.com` for submission.
+
+1. Title: `${YOUR_NAME}: La Coco Crypto Exchange`
+2. Body:
+   1. GitHub Repo URL (with invitations)
+   2. Short write-up of what you have done.
+   3. Any suggestions for improving this task. (optional)
+   4. Anything stands out to you. (optional)
+   5. Comments (optional)
